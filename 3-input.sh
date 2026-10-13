@@ -1,2 +1,2 @@
 #!/bin/bash
-echo"Hello enter your name"
+echo "Hello enter your name"
